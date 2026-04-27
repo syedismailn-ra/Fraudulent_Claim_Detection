@@ -1,6 +1,6 @@
 # 🛡️ Fraudulent Insurance Claim Detection
 
-An end-to-end supervised machine learning pipeline to classify insurance claims as **fraudulent or legitimate**, built as part of an Advanced ML case study for UpGrad (January 2025).
+An end-to-end supervised machine learning pipeline to classify insurance claims as **fraudulent or legitimate**, built as part of an Advanced ML case study for IIITB (January 2026).
 
 ---
 
