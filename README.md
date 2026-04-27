@@ -135,4 +135,4 @@ The **Tuned Random Forest** model outperformed Logistic Regression on the valida
 - Syed Ismail N
 
 
-*Advanced ML Case Study — UpGrad, January 2026*
+*Advanced ML Case Study — IIITB, January 2026*
