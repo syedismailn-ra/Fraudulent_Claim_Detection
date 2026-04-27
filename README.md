@@ -6,7 +6,7 @@ An end-to-end supervised machine learning pipeline to classify insurance claims 
 
 ## 📌 Problem Statement
 
-**Global Insure** processes thousands of insurance claims annually. A significant proportion are fraudulent, causing substantial financial losses. Their existing manual inspection process is slow and detects fraud too late — often after payouts have already been made.
+**Global Insure** processes thousands of insurance claims annually. A significant proportion are fraudulent, causing substantial financial losses. Their existing manual inspection process is slow and detects fraud too late, often after payouts have already been made.
 
 This project builds a data-driven classification model to flag suspicious claims **early in the approval process**, minimising losses and improving operational efficiency.
 
@@ -102,7 +102,7 @@ This project builds a data-driven classification model to flag suspicious claims
 
 ## 🏆 Conclusion
 
-The **Tuned Random Forest** model outperformed Logistic Regression on the validation set, achieving **82% accuracy** and an **F1-score of 0.675** with significantly higher sensitivity (75.68% vs. 62.16%). This makes it substantially better at actually catching fraudulent claims — the primary business objective.
+The **Tuned Random Forest** model outperformed Logistic Regression on the validation set, achieving **82% accuracy** and an **F1-score of 0.675** with significantly higher sensitivity (75.68% vs. 62.16%). This makes it substantially better at actually catching fraudulent claims which is the primary business objective.
 
 ---
 
